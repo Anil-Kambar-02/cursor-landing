@@ -398,3 +398,30 @@ figure {
 .testlink {
     color: #f54E00;
 }
+
+/* Team  */
+.team {
+    margin: 150px auto;
+}
+
+.teamtext {
+    margin-bottom: 60px;
+}
+
+.team-child h2 {
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+.team-child button{
+    font-size: 20px;
+    border: none;
+    border-radius: 25px;
+    padding: 8px 16px;
+}
+
+.team-child img{
+    width: 100%;
+    border-radius: 5px;
+}
